@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "张三",
+        "age": 30,
+        "email": "zhangsan@example.com",
+        "is_active": True,
+        "registration_date": datetime.datetime(2023, 1, 15, 0, 0)
+    },
+    {
+        "id": 2,
+        "name": "李四",
+        "age": 25,
+        "email": "lisi@example.com",
+        "is_active": True,
+        "registration_date": datetime.datetime(2023, 3, 22, 0, 0)
+    },
+    {
+        "id": 3,
+        "name": "王五",
+        "age": 35,
+        "email": "wangwu@example.com",
+        "is_active": False,
+        "registration_date": datetime.datetime(2022, 11, 5, 0, 0)
+    }
+]
